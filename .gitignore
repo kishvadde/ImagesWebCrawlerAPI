@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+**__pycache__/
+*.py[cod]
+*$py.class
+# Byte-compiled / optimized / DLL files
+
+#Ignore virtualenv
+**/venv
+**/.env
+
+#Ignore idea folder
+.idea/
+./git
